@@ -1,0 +1,18 @@
+# Swift Package Manager & Xcode
+.build/
+build/
+Packages/
+Package.pins
+Package.resolved
+DerivedData/
+.swiftpm/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode User Data
+*.xcuserdata/
+*.xcscmblueprint
